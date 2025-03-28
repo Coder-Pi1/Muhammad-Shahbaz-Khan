@@ -1,0 +1,705 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\EliteTech_Core\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EliteTech_Core.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EliteTech_Core.3h5ae37ph6.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\css\\dark.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dark.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\css\\vendors\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\animate.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\css\\vendors\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\css\\vendors\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\css\\vendors\\splitting.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\splitting.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\css\\vendors\\swiper.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\swiper.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Address.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Address.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Avatar.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Avatar.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\DetailPage\\Detail-10th.png",
+      "PackagePath": "staticwebassets\\assets\\images\\DetailPage\\Detail-10th.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\DetailPage\\Detail-11th.png",
+      "PackagePath": "staticwebassets\\assets\\images\\DetailPage\\Detail-11th.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\DetailPage\\Detail-2nd-Image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\DetailPage\\Detail-2nd-Image.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\DetailPage\\Detail-3rd-Image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\DetailPage\\Detail-3rd-Image.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\DetailPage\\Detail-4th.png",
+      "PackagePath": "staticwebassets\\assets\\images\\DetailPage\\Detail-4th.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\DetailPage\\Detail-5th.png",
+      "PackagePath": "staticwebassets\\assets\\images\\DetailPage\\Detail-5th.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\DetailPage\\Detail-6th.png",
+      "PackagePath": "staticwebassets\\assets\\images\\DetailPage\\Detail-6th.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\DetailPage\\Detail-7th.png",
+      "PackagePath": "staticwebassets\\assets\\images\\DetailPage\\Detail-7th.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\DetailPage\\Detail-8th.png",
+      "PackagePath": "staticwebassets\\assets\\images\\DetailPage\\Detail-8th.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\DetailPage\\Detail-9th.png",
+      "PackagePath": "staticwebassets\\assets\\images\\DetailPage\\Detail-9th.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\DetailPage\\DetailCard1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\DetailPage\\DetailCard1.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Email.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Email.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\single1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\single1.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\single2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\single2.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\single4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\single4.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\single6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\single6.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\single7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\single7.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\single8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\single8.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\work1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\work1.jpeg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\work2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\work2.jpeg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\work3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\work3.jpeg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\work4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\work4.jpeg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\work5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\work5.jpeg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\work6.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\work6.jpeg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Images\\work7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Images\\work7.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Nav-Bar-Logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Nav-Bar-Logo.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Phone.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Phone.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Portfolio\\10th-card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Portfolio\\10th-card.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Portfolio\\11th-card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Portfolio\\11th-card.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Portfolio\\2nd-Card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Portfolio\\2nd-Card.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Portfolio\\3rd-card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Portfolio\\3rd-card.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Portfolio\\4th-card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Portfolio\\4th-card.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Portfolio\\5th-card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Portfolio\\5th-card.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Portfolio\\6th-Card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Portfolio\\6th-Card.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Portfolio\\7th-card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Portfolio\\7th-card.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Portfolio\\8th-card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Portfolio\\8th-card.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Portfolio\\9th-card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Portfolio\\9th-card.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Portfolio\\Optimizing-finances.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Portfolio\\Optimizing-finances.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Services\\AML-compliance.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Services\\AML-compliance.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Services\\Accounting-and-Bookeeping.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Services\\Accounting-and-Bookeeping.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Services\\Business-Formation.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Services\\Business-Formation.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Services\\ERP-coupa-implementation.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Services\\ERP-coupa-implementation.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Services\\IFRS-special-advisory.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Services\\IFRS-special-advisory.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Services\\In-house-pro-services.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Services\\In-house-pro-services.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Services\\Real-estate-services.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Services\\Real-estate-services.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Services\\Taxation.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Services\\Taxation.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Services\\Virtual-CFO.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Services\\Virtual-CFO.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Thumbnail.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Thumbnail.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Wendy-Founder-RoyalNordic.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Wendy-Founder-RoyalNordic.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\Wendy-Founder-RoyalNordicSaloon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Wendy-Founder-RoyalNordicSaloon.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\angle.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\angle.svg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\arrow.svg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\caret-down.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\caret-down.svg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\circle.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\circle.svg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\fav.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fav.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\human.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\human.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\human2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\human2.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\pat-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pat-1.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\pat-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pat-2.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\popup-contactme.png",
+      "PackagePath": "staticwebassets\\assets\\images\\popup-contactme.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\profile2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile2.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\quote.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\quote.svg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\search.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\search.svg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\testi4-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testi4-1.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\testi4-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testi4-2.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\testi4-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testi4-3.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\testi4-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testi4-4.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\testi4-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testi4-5.jpg"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\images\\unnamed.png",
+      "PackagePath": "staticwebassets\\assets\\images\\unnamed.png"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\common.js",
+      "PackagePath": "staticwebassets\\assets\\js\\common.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\imagesloaded.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.pkgd.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\jarallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jarallax.min.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\jquery.scrolla.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrolla.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\magnific-popup.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\skrollr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\skrollr.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\splitting.js",
+      "PackagePath": "staticwebassets\\assets\\js\\splitting.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\swiper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\assets\\js\\typed.js",
+      "PackagePath": "staticwebassets\\assets\\js\\typed.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\EliteTech_Core\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EliteTech_Core.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EliteTech_Core.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EliteTech_Core.props",
+      "PackagePath": "build\\EliteTech_Core.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EliteTech_Core.props",
+      "PackagePath": "buildMultiTargeting\\EliteTech_Core.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EliteTech_Core.props",
+      "PackagePath": "buildTransitive\\EliteTech_Core.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

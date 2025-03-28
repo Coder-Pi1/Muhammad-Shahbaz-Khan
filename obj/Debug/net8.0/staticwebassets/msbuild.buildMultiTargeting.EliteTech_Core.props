@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EliteTech_Core.props" />
+</Project>
